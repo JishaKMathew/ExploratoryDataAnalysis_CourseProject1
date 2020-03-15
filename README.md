@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis_CourseProject1
+# ExploratoryDataAnalysis_CourseProject1 Jisha Mathew
 
 Dataset: Electric power consumption
 
